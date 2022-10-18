@@ -1,2 +1,2 @@
-# work-day-scheduer
-Online schedule to make your work day more organized
+# work-day-scheduler
+Online schedule to make your work day more organized.
